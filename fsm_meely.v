@@ -25,6 +25,7 @@ end
 
 
 // next state equation
+  //fsm to detect 010 or 1001 with overlap 
 
 always @(*) 
 begin
